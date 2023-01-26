@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\bin\Debug\BasicTicketMachine.exe.config
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\bin\Debug\BasicTicketMachine.exe
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\bin\Debug\BasicTicketMachine.pdb
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\obj\Debug\BasicTicketMachine.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\obj\Debug\BasicTicketMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\obj\Debug\BasicTicketMachine.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\obj\Debug\BasicTicketMachine.exe
+C:\Users\ahmet\source\repos\BasicTicketMachine\BasicTicketMachine\obj\Debug\BasicTicketMachine.pdb
